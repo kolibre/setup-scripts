@@ -20,4 +20,5 @@ meta-kde,git://github.com/Angstrom-distribution/meta-kde.git,angstrom-staging-yo
 meta-linaro,git://github.com/Angstrom-distribution/meta-linaro.git,dylan,HEAD
 meta-minnow,git://git.yoctoproject.org/meta-minnow,dylan,HEAD
 meta-ros,git://github.com/bmwcarit/meta-ros.git,master,cc10dee5696e914273a8548f85b0c12043919cac
+meta-kolibre,git://github.com/kolibre/meta-kolibre.git,master,HEAD
 openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-staging-yocto1.4,HEAD
