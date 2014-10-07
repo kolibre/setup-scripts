@@ -10,7 +10,7 @@ meta-smartphone,http://git.shr-project.org/repo/meta-smartphone.git,master,41c5c
 meta-intel,git://git.yoctoproject.org/meta-intel,dylan,6ea7c0f0af5ad20bffba3cf21b17da892e842f82
 meta-xilinx,git://git.yoctoproject.org/meta-xilinx-community,master,5f3b2f3ab30c1ae1f434f2fe45aaba8339969ad4
 meta-openpandora,git://github.com/openpandora/meta-openpandora.git,master,3b8f5d3353cb909cdf4823d59b263523eb4a9876
-meta-raspberrypi,git://github.com/djwillis/meta-raspberrypi.git,master,fbc0947e96e8989d46b1570619554cb916e24049
+meta-raspberrypi,git://github.com/djwillis/meta-raspberrypi.git,master,0a5b6bb390f4fd1286755ac1f374b12363879d57
 meta-handheld,git://git.openembedded.org/meta-handheld,master,1dd57dcf14056901e25d8a661a7507b7d85b5a64
 meta-opie,git://git.openembedded.org/meta-opie.git,master,c242efc6ca55772a88602f1f8f94dff697b38430
 meta-java,git://github.com/woglinde/meta-java.git,master,7fb9465e5c2db618eedb59de5e5e013fd86cc06d
@@ -20,5 +20,5 @@ meta-kde,git://github.com/Angstrom-distribution/meta-kde.git,angstrom-staging-yo
 meta-linaro,git://github.com/Angstrom-distribution/meta-linaro.git,dylan,7ab5e76aac4344e1a228b620f469e868e7914f2f
 meta-minnow,git://git.yoctoproject.org/meta-minnow,dylan,d5849d5ea14bc9b34ddd05b92c3a7ea46bd1863a
 meta-ros,git://github.com/bmwcarit/meta-ros.git,master,cc10dee5696e914273a8548f85b0c12043919cac
-meta-kolibre,git://github.com/kolibre/meta-kolibre.git,master,d18d197b911f3b38d4bb59109818ac5af73afbe6
+meta-kolibre,git://github.com/kolibre/meta-kolibre.git,master,88e912406068ede23dd2729d5a95417d396ef160
 openembedded-core,git://github.com/Angstrom-distribution/oe-core.git,angstrom-staging-yocto1.4,c90a65ada7ffb7397accf862189812f0a17fa75e
